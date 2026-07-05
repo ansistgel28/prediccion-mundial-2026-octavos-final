@@ -27,7 +27,7 @@ Esta entrega se enfoca únicamente en la fase de **octavos de final**, es decir,
 ## Enlaces individuales de GitHub
 
 - Jean Frank Bustamante Vela: https://github.com/Jeanki07/prediccion-mundial-2026-octavos-final
-- Miguel Angel Marreros Cortegana: colocar enlace
+- Miguel Angel Marreros Cortegana: https://github.com/ansistgel28/prediccion-mundial-2026-octavos-final.git
 - Valentin Fernandez Campos: colocar enlace
 - Frank Salon Trigoso: colocar enlace
 - Maria Carmen Tuesta Chuquizuta: colocar enlace
