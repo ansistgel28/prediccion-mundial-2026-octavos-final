@@ -506,6 +506,106 @@ por:
 ```bash
 venv\Scripts\activate
 ```
+# ⚽ Clasificados a dieciseisavos de final — Mundial 2026
+
+Estas son las **32 selecciones** que, según la predicción del modelo, avanzaron a los dieciseisavos de final. Los equipos están organizados por grupo y posición de clasificación.
+
+## Grupo A
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | México |
+| 2.º | Sudáfrica |
+| Mejor tercero | Corea del Sur |
+
+## Grupo B
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Suiza |
+| 2.º | Canadá |
+| Mejor tercero | Bosnia y Herzegovina |
+
+## Grupo C
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Brasil |
+| 2.º | Marruecos |
+
+## Grupo D
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Estados Unidos |
+| 2.º | Australia |
+| Mejor tercero | Turquía |
+
+## Grupo E
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Alemania |
+| 2.º | Costa de Marfil |
+| Mejor tercero | Ecuador |
+
+## Grupo F
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Países Bajos |
+| 2.º | Japón |
+| Mejor tercero | Suecia |
+
+## Grupo G
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Egipto |
+| 2.º | Bélgica |
+| Mejor tercero | Irán |
+
+## Grupo H
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | España |
+| 2.º | Cabo Verde |
+
+## Grupo I
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Francia |
+| 2.º | Noruega |
+| Mejor tercero | Senegal |
+
+## Grupo J
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Argentina |
+| 2.º | Austria |
+
+## Grupo K
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Colombia |
+| 2.º | Portugal |
+
+## Grupo L
+
+| Posición | Selección |
+|:---:|---|
+| 1.º | Inglaterra |
+| 2.º | Croacia |
+| Mejor tercero | Ghana |
+
+> Fuente: `outputs/clasificados_16avos.csv`.
+
+<img width="5970" height="2367" alt="image" src="https://github.com/user-attachments/assets/48aa4ffa-27d7-4a53-a2d3-dc4aadc85367" />
+
 # Clasificados de 16avos a octavos de final
 
 | N.º | Partido de 16avos | Resultado | Clasificado a octavos |
@@ -528,3 +628,48 @@ venv\Scripts\activate
 | 16 | Colombia vs. Ghana | 1-0 | Colombia |
 
 <img width="1354" height="323" alt="image" src="https://github.com/user-attachments/assets/5f340536-9eb0-46a4-b3fe-483cf5ed8fe7" />
+# README – Equipos que pasaron de octavos a cuartos
+
+Este documento resume los equipos que clasificaron desde la fase de octavos de final hacia los cuartos del Mundial 2026.
+
+## Resumen general
+
+Los equipos que avanzaron fueron:
+
+- Morocco
+- France
+- Norway
+- England
+- Spain
+- Belgium
+- Argentina
+- Switzerland
+
+## Resultados que definieron el avance
+
+| Fecha | Partido | Equipo clasificado |
+| --- | --- | --- |
+| 2026-07-04 | Canada vs Morocco | Morocco |
+| 2026-07-04 | Paraguay vs France | France |
+| 2026-07-05 | Brazil vs Norway | Norway |
+| 2026-07-05 | Mexico vs England | England |
+| 2026-07-06 | Portugal vs Spain | Spain |
+| 2026-07-06 | United States vs Belgium | Belgium |
+| 2026-07-07 | Argentina vs Egypt | Argentina |
+| 2026-07-07 | Switzerland vs Colombia | Switzerland |
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d74f621a-c329-439b-981d-867a4b679dff" />
+
+# ⚽ Clasificados de cuartos a semifinales — Mundial 2026
+
+Estas son las **4 selecciones** que, según la predicción balanceada del modelo, avanzan de los cuartos de final a las semifinales.
+
+## Clasificados
+
+| N.º | Partido de cuartos | Clasificado a semifinales |
+|:---:|---|---|
+| 1 | Francia vs. Marruecos | **Francia** |
+| 2 | España vs. Bélgica | **España** |
+| 3 | Noruega vs. Inglaterra | **Inglaterra** |
+| 4 | Argentina vs. Suiza | **Argentina** |
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb845c25-8f38-47a4-b904-eaa10d642dde" />
