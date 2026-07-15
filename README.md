@@ -12,7 +12,6 @@ El objetivo principal es simular los partidos de octavos de final, estimar posib
 - Miguel Angel Marreros Cortegana
 - Valentin Fernandez Campos
 - Frank Salon Trigoso
-- Maria Carmen Tuesta Chuquizuta
 
 ---
 
@@ -23,13 +22,6 @@ El objetivo principal es simular los partidos de octavos de final, estimar posib
 Esta entrega se enfoca únicamente en la fase de **octavos de final**, es decir, en la predicción de los partidos que definen qué selecciones clasifican a **cuartos de final**.
 
 ---
-
-## Enlaces individuales de GitHub
-
-- Jean Frank Bustamante Vela:
-- Miguel Angel Marreros Cortegana:
-- Valentin Fernandez Campos: colocar enlace
-- Frank Salon Trigoso: colocar enlace
 
 ---
 
@@ -534,3 +526,5 @@ venv\Scripts\activate
 | 14 | Australia vs. Egypt | 1-1 (2-4 en penales) | Egypt |
 | 15 | Argentina vs. Cape Verde | 3-2 | Argentina |
 | 16 | Colombia vs. Ghana | 1-0 | Colombia |
+
+<img width="1354" height="323" alt="image" src="https://github.com/user-attachments/assets/5f340536-9eb0-46a4-b3fe-483cf5ed8fe7" />
